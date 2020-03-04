@@ -46,6 +46,7 @@ public class RussianTest {
 
     // fault based test
     // between Russian() and RussianFault1
+    // chosen 10, 10 to reveal that when n is a multiple of 2, does not add to the product
     @Test
     public void multiplyFaultBasedTes1t() {
         assertEquals(Russian.multiply(10, 10), 10 * 10);
@@ -57,6 +58,7 @@ public class RussianTest {
     }
 
     // between Russian() and RussianFault2
+    // chosen 10, 10 to reveal that when n is 1, does not compute further
     @Test
     public void multiplyFaultBasedTest2() {
         assertEquals(Russian.multiply(10, 10), 10 * 10);
