@@ -1,18 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="019f5505-c0fc-4ec4-9082-6fb786089ff7" name="Default Changelist" comment="" />
+    <list default="true" id="019f5505-c0fc-4ec4-9082-6fb786089ff7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BadCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BadCodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BiSectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/BiSectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Disk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FindMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FindMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FindMaxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ParameterizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/QuickSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Russian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/TestAll.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="123" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,6 +52,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1YcLPvxN92rnHeq94bNXqipReSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,80 +65,90 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
   </component>
-  <component name="RunManager" selected="JUnit.QuickSortTest.sortTest">
-    <configuration name="ParameterizedTest.additionTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RussianTest">
+    <configuration name="DiskTest.manipulateTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ps2" />
       <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="ParameterizedTest" />
-      <option name="METHOD_NAME" value="additionTest" />
+      <option name="MAIN_CLASS_NAME" value="DiskTest" />
+      <option name="METHOD_NAME" value="manipulateTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParameterizedTest.additionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RussianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ps2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.ParameterizedTest" />
-      <option name="METHOD_NAME" value="additionTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QuickSortTest.sortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ps2" />
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="QuickSortTest" />
-      <option name="METHOD_NAME" value="sortTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ps2" />
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="StackTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RussianTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTest.testRepOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RussianTest.multiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ps2" />
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="StackTest" />
-      <option name="METHOD_NAME" value="testRepOk" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RussianTest" />
+      <option name="METHOD_NAME" value="multiply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RussianTest.multiplyBlackBoxTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RussianTest" />
+      <option name="METHOD_NAME" value="multiplyBlackBoxTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RussianTest.multiplyWhiteBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RussianTest" />
+      <option name="METHOD_NAME" value="multiplyWhiteBoxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StackTest" />
-      <item itemvalue="JUnit.StackTest.testRepOk" />
-      <item itemvalue="JUnit.QuickSortTest.sortTest" />
-      <item itemvalue="JUnit.ParameterizedTest.additionTest" />
-      <item itemvalue="JUnit.ParameterizedTest.additionTest (1)" />
+      <item itemvalue="JUnit.DiskTest.manipulateTest (1)" />
+      <item itemvalue="JUnit.RussianTest.multiply" />
+      <item itemvalue="JUnit.RussianTest" />
+      <item itemvalue="JUnit.RussianTest.multiplyWhiteBoxTest" />
+      <item itemvalue="JUnit.RussianTest.multiplyBlackBoxTest3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QuickSortTest.sortTest" />
-        <item itemvalue="JUnit.ParameterizedTest.additionTest (1)" />
-        <item itemvalue="JUnit.ParameterizedTest.additionTest" />
-        <item itemvalue="JUnit.StackTest" />
-        <item itemvalue="JUnit.StackTest.testRepOk" />
+        <item itemvalue="JUnit.RussianTest" />
+        <item itemvalue="JUnit.RussianTest.multiplyBlackBoxTest3" />
+        <item itemvalue="JUnit.RussianTest.multiplyWhiteBoxTest" />
+        <item itemvalue="JUnit.RussianTest.multiply" />
+        <item itemvalue="JUnit.DiskTest.manipulateTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -140,52 +183,92 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="701" y="147" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1583249231415" />
-    <state x="773" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1583326219090">
+    <state x="773" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1583329036012">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="773" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583326219090" />
-    <state width="1920" height="165" key="GridCell.Tab.0.bottom" timestamp="1583327209512">
+    <state x="773" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583329036012" />
+    <state width="1920" height="165" key="GridCell.Tab.0.bottom" timestamp="1583334320662">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583327209512" />
+    <state width="1920" height="165" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320662" />
     <state width="1920" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478317" />
-    <state width="1920" height="165" key="GridCell.Tab.0.center" timestamp="1583327209511">
+    <state width="1920" height="165" key="GridCell.Tab.0.center" timestamp="1583334320661">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583327209511" />
+    <state width="1920" height="165" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320661" />
     <state width="1920" height="271" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478316" />
-    <state width="1920" height="165" key="GridCell.Tab.0.left" timestamp="1583327209511">
+    <state width="1920" height="165" key="GridCell.Tab.0.left" timestamp="1583334320660">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583327209511" />
+    <state width="1920" height="165" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320660" />
     <state width="1920" height="271" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478316" />
-    <state width="1920" height="165" key="GridCell.Tab.0.right" timestamp="1583327209511">
+    <state width="1920" height="165" key="GridCell.Tab.0.right" timestamp="1583334320661">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583327209511" />
+    <state width="1920" height="165" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320661" />
     <state width="1920" height="271" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478317" />
-    <state x="384" y="144" key="SettingsEditor" timestamp="1583326903427">
+    <state width="1920" height="360" key="GridCell.Tab.1.bottom" timestamp="1583331463484">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="360" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463484" />
+    <state width="1920" height="360" key="GridCell.Tab.1.center" timestamp="1583331463483">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="360" key="GridCell.Tab.1.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463483" />
+    <state width="1920" height="360" key="GridCell.Tab.1.left" timestamp="1583331463482">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="360" key="GridCell.Tab.1.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463482" />
+    <state width="1920" height="360" key="GridCell.Tab.1.right" timestamp="1583331463483">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1920" height="360" key="GridCell.Tab.1.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463483" />
+    <state x="384" y="144" key="SettingsEditor" timestamp="1583333246815">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="307" y="130" key="SettingsEditor/0.23.1536.937@0.23.1536.937" timestamp="1583238563926" />
-    <state x="384" y="144" key="SettingsEditor/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583326903427" />
+    <state x="384" y="144" key="SettingsEditor/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583333246815" />
     <state x="384" y="144" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1583249490189" />
     <state x="367" y="388" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583236981187">
       <screen x="0" y="23" width="1536" height="937" />
     </state>
     <state x="367" y="388" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1536.937@0.23.1536.937" timestamp="1583236981187" />
+    <state x="739" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583332562695">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="739" y="259" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583332562695" />
     <state width="612" height="392" key="javadoc.popup" timestamp="1583326630528">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="489" height="347" key="javadoc.popup/0.23.1536.937@0.23.1536.937" timestamp="1583239132814" />
     <state width="612" height="392" key="javadoc.popup/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583326630528" />
-    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1583326198673">
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1583327499220">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583326198673" />
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583327499220" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DiskTest.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RussianTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ps2$DiskTest_manipulateTest.ic" NAME="DiskTest.manipulateTest Coverage Results" MODIFIED="1583331463436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ps2$RussianTest_multiplyWhiteBoxTest.ic" NAME="RussianTest.multiplyWhiteBoxTest Coverage Results" MODIFIED="1583333131949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

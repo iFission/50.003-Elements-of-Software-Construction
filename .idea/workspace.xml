@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="352aca5a-fb8e-4e5f-822c-e5fdc583be92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ps2/ps2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ps2/ps2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ps2/ps2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/out/production/ps2/ParameterizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ps2/ps2/out/production/ps2/ParameterizedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/BadCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/BadCodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/BiSectionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/BiSectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/Disk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/FindMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/FindMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/FindMaxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/ParameterizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/QuickSortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/Russian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps2/ps2/src/com/company/TestAll.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YfWRSkr5P2TsYWVv5ZhbCPhpRe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="352aca5a-fb8e-4e5f-822c-e5fdc583be92" name="Default Changelist" comment="" />
+      <created>1583334120494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583334120494</updated>
+    </task>
+    <servers />
+  </component>
+</project>
