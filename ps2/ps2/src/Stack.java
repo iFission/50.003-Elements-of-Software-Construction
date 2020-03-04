@@ -12,17 +12,12 @@ public class Stack<E> extends Vector<E> {
 
     public boolean repOK() {
         if (this.capacity() < 0) {
-
-            System.out.println(1);
             return false;
-        } else if (this.empty() != this.elements().hasMoreElements()) {
-            System.out.println(2);
+        } else if (this.empty() && this.elements().hasMoreElements()) {
             return false;
         } else if (this.isEmpty() && this.size() != 0) {
-            System.out.println(3);
             return false;
         } else if (this.capacity() < this.size()) {
-            System.out.println(4);
             return false;
         }
 

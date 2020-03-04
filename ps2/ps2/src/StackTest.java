@@ -46,31 +46,27 @@ public class StackTest {
 
     @Test
     public void testRepOk2() {
-        boolean result = stack.repOK();
         stack.push(new Integer(1));
-        result = stack.repOK();
+        boolean result = stack.repOK();
         assertEquals(true, result);
 
     }
 
     @Test
     public void testRepOk3() {
-        boolean result = stack.repOK();
         stack.push(new Integer(1));
-        result = stack.repOK();
         stack.pop();
-        result = stack.repOK();
+        boolean result = stack.repOK();
         assertEquals(true, result);
     }
 
     @Test
     public void testRepOk4() {
+        stack.push(new Integer(1));
+        stack.pop();
+        stack.push(new Integer(1));
+        stack.pop();
         boolean result = stack.repOK();
-        stack.push(new Integer(1));
-        stack.pop();
-        stack.push(new Integer(1));
-        stack.pop();
-        result = stack.repOK();
         assertEquals(true, result);
     }
 
