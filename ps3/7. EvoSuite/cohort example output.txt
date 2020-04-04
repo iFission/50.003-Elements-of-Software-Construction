@@ -1,0 +1,72 @@
+time  ./run_evosuite Example ./       
+* EvoSuite 1.0.6
+* Going to generate test cases for class: Example
+* Starting client
+* Connecting to master process on port 12601
+* Analyzing classpath: 
+  - ./
+* Finished analyzing classpath
+* Generating tests for class Example
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+* Total number of test goals: 
+  - Line 11
+  - Branch 15
+  - Exception 0
+  - MutationFactory 64
+  - Output 0
+  - Method 2
+  - MethodNoException 2
+  - CBranchFitnessFactory 15
+[Progress:>                             0%] [Cov:>                                  0%]* Using seed 1585907987101
+* Starting evolution
+[Progress:==============================100%] [Cov:=================================> 97%]
+* Search finished after 61s and 1749 generations, 624851 statements, best individual has fitness: 6.499999997208412
+* Minimizing test suite
+* Going to analyze the coverage criteria
+* Coverage analysis for criterion LINE
+* Coverage of criterion LINE: 100%
+* Total number of goals: 11
+* Number of covered goals: 11
+* Coverage analysis for criterion BRANCH
+* Coverage of criterion BRANCH: 93%
+* Total number of goals: 15
+* Number of covered goals: 14
+* Coverage analysis for criterion EXCEPTION
+* Coverage of criterion EXCEPTION: 100% (no goals)
+* Coverage analysis for criterion WEAKMUTATION
+* Coverage of criterion WEAKMUTATION: 97%
+* Total number of goals: 64
+* Number of covered goals: 62
+* Coverage analysis for criterion OUTPUT
+* Coverage of criterion OUTPUT: 100% (no goals)
+* Coverage analysis for criterion METHOD
+* Coverage of criterion METHOD: 100%
+* Total number of goals: 2
+* Number of covered goals: 2
+* Coverage analysis for criterion METHODNOEXCEPTION
+* Coverage of criterion METHODNOEXCEPTION: 100%
+* Total number of goals: 2
+* Number of covered goals: 2
+* Coverage analysis for criterion CBRANCH
+* Coverage of criterion CBRANCH: 93%
+* Total number of goals: 15
+* Number of covered goals: 14
+* Generated 13 tests with total length 26
+* Resulting test suite's coverage: 98% (average coverage for all fitness functions)
+* Generating assertions
+* Resulting test suite's mutation score: 0%
+* Compiling and checking tests
+* Writing JUnit test case 'Example_ESTest' to evosuite-tests
+* Done!
+
+* Computation finished
+./run_evosuite Example ./  101.26s user 5.19s system 156% cpu 1:07.83 total
