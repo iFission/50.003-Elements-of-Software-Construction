@@ -2,28 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019f5505-c0fc-4ec4-9082-6fb786089ff7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BadCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BadCodeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BiSectionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/BiSectionTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Disk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FindMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FindMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/FindMaxTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ParameterizedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/QuickSortTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Russian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/StackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/TestAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/BadCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/BadCodeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/BiSectionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/BiSectionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/ParameterizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ps2/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/StackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ps2/StackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/TestAll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ps2/com/company/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,17 +76,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RussianTest">
-    <configuration name="DiskTest.manipulateTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ps2" />
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="DiskTest" />
-      <option name="METHOD_NAME" value="manipulateTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StackTest">
     <configuration name="RussianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ps2" />
       <option name="PACKAGE_NAME" value="" />
@@ -135,20 +116,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.DiskTest.manipulateTest (1)" />
       <item itemvalue="JUnit.RussianTest.multiply" />
       <item itemvalue="JUnit.RussianTest" />
       <item itemvalue="JUnit.RussianTest.multiplyWhiteBoxTest" />
       <item itemvalue="JUnit.RussianTest.multiplyBlackBoxTest3" />
+      <item itemvalue="JUnit.StackTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StackTest" />
         <item itemvalue="JUnit.RussianTest" />
         <item itemvalue="JUnit.RussianTest.multiplyBlackBoxTest3" />
         <item itemvalue="JUnit.RussianTest.multiplyWhiteBoxTest" />
         <item itemvalue="JUnit.RussianTest.multiply" />
-        <item itemvalue="JUnit.DiskTest.manipulateTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -187,46 +177,46 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="773" y="274" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583329036012" />
-    <state width="1920" height="165" key="GridCell.Tab.0.bottom" timestamp="1583334320662">
+    <state width="1920" height="360" key="GridCell.Tab.0.bottom" timestamp="1583336286981">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320662" />
+    <state width="1920" height="360" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286981" />
     <state width="1920" height="271" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478317" />
-    <state width="1920" height="165" key="GridCell.Tab.0.center" timestamp="1583334320661">
+    <state width="1920" height="360" key="GridCell.Tab.0.center" timestamp="1583336286981">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320661" />
+    <state width="1920" height="360" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286981" />
     <state width="1920" height="271" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478316" />
-    <state width="1920" height="165" key="GridCell.Tab.0.left" timestamp="1583334320660">
+    <state width="1920" height="360" key="GridCell.Tab.0.left" timestamp="1583336286980">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320660" />
+    <state width="1920" height="360" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286980" />
     <state width="1920" height="271" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478316" />
-    <state width="1920" height="165" key="GridCell.Tab.0.right" timestamp="1583334320661">
+    <state width="1920" height="360" key="GridCell.Tab.0.right" timestamp="1583336286981">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1536" height="250" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1583241473953" />
-    <state width="1920" height="165" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583334320661" />
+    <state width="1920" height="360" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286981" />
     <state width="1920" height="271" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1583322478317" />
-    <state width="1920" height="360" key="GridCell.Tab.1.bottom" timestamp="1583331463484">
+    <state width="1920" height="360" key="GridCell.Tab.1.bottom" timestamp="1583336286984">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1920" height="360" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463484" />
-    <state width="1920" height="360" key="GridCell.Tab.1.center" timestamp="1583331463483">
+    <state width="1920" height="360" key="GridCell.Tab.1.bottom/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286984" />
+    <state width="1920" height="360" key="GridCell.Tab.1.center" timestamp="1583336286982">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1920" height="360" key="GridCell.Tab.1.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463483" />
-    <state width="1920" height="360" key="GridCell.Tab.1.left" timestamp="1583331463482">
+    <state width="1920" height="360" key="GridCell.Tab.1.center/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286982" />
+    <state width="1920" height="360" key="GridCell.Tab.1.left" timestamp="1583336286982">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1920" height="360" key="GridCell.Tab.1.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463482" />
-    <state width="1920" height="360" key="GridCell.Tab.1.right" timestamp="1583331463483">
+    <state width="1920" height="360" key="GridCell.Tab.1.left/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286982" />
+    <state width="1920" height="360" key="GridCell.Tab.1.right" timestamp="1583336286983">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1920" height="360" key="GridCell.Tab.1.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583331463483" />
+    <state width="1920" height="360" key="GridCell.Tab.1.right/0.23.1920.1057/-1280.548.1280.697@0.23.1920.1057" timestamp="1583336286983" />
     <state x="384" y="144" key="SettingsEditor" timestamp="1583333246815">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
