@@ -1,0 +1,2 @@
+fitness function is defined to be first_gene - last gene
+other operators are not changed

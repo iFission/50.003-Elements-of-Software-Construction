@@ -22,9 +22,9 @@ public class FitnessCalc {
     // Calculate inidividuals fittness by comparing it to our candidate solution
     static int getFitness(Individual individual) {
         int fitness = 0;
-        // Loop through our individuals genes and compare them to our cadidates
+        // Loop through our individuals genes and compare them in the revere order
         for (int i = 0; i < individual.size(); i++) {
-                fitness-=Math.abs(individual.getGene(i)-solution[i]);
+                fitness-=Math.abs(individual.getGene(i)-individual.getGene(individual.size()-1-i));
         }
       
         return fitness;

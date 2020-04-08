@@ -69,4 +69,3 @@ time ./run_evosuite Example ./
 * Done!
 
 * Computation finished
-./run_evosuite Example ./  56.72s user 2.84s system 256% cpu 23.244 total

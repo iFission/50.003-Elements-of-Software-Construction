@@ -1,0 +1,7 @@
+cohort example has 93% branch coverage 98% average coverage
+self example 1 has 53% branch coverage 77% average coverage
+self example 2 has 100% branch coverage 100% average coverage
+
+the runtime, in terms of increasing time was: self example 1 < cohort example <  self example 2
+
+more time is needed to obtain 100% coverage as more calculation is needed
